@@ -17,6 +17,7 @@ const Search = () => {
   };
 
   return (
+    
     <div>
       <form>
         <input
